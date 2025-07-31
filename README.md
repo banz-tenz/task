@@ -9,10 +9,10 @@ print
 `npm install`
 
 ### todo
--[ ] Home page
+- [ ] Home page
 
--[ ] About page
+- [ ] About page
 
--[ ] Sevice page
+- [ ] Sevice page
 
--[x] Contact page
+- [x] Contact page
