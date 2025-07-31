@@ -18,4 +18,4 @@ print
 - [x] Contact page
 
 ### screen short
-! [picture's name] (photo_2025-06-26_10-40-38)
+![picture's name](photo_2025-06-26_10-40-38.jpg)
