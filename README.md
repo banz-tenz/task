@@ -1,62 +1,32 @@
-# heading 1
-## headig 2
-### heading 3
-#### heading 4
-print 
+## 🚀 Features
 
-`npm install`
-
-`npm install`
-
-### todo
-- [ ] Home page
-
-- [ ] About page
-
-- [ ] Sevice page
-
-- [x] Contact page
-
-### screen short
-![picture's name](photo_2025-06-26_10-40-38.jpg)
-
-### link 
- Css fram work [tailwindcss](https://github.com/banz-tenz/task)
-
- ### list
- Order list
- 1. one
- 2. two
- 3. three
-    1. sub list one
+- 📖 Add, update, and delete books
+- 👤 Register and manage users
+- 📅 Borrow and return books
+- 🔍 Search books by title, author, or ISBN
+- 📊 View borrowed books and due dates
+- 🛡️ User role system (Admin, Librarian, Member)
 
 ---
 
-Unorder list
-- one
-- two
-- three
-  - one
+## 🛠️ Tech Stack
 
-### text style
+- **Frontend**: HTML, CSS, JavaScript
+- **Backend**: Python (Flask/Django) / Node.js / PHP
+- **Database**: SQLite / MySQL / MongoDB
 
-**Bold**
+> _Note: Choose your stack above based on your implementation._
 
-*italic*
+---
 
-delete
+## 📦 Installation
 
-### block code
-> Hello
-kaka uot ouo
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/yourusername/library-system.git
+   cd library-system
 
-## table
- | id | name | age |
- |----|------|-----|
- | 01 | ten | 18|
-
- ## code
- ```python
- name = "sothin"
- for i in range(len(sothin)):
-  
+## 📸 Screenshot
+Here is what the Library System looks like:
+![library system screenshort](screenshort.png)
+![library system screenshort](screenshort2.png)
