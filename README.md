@@ -15,7 +15,7 @@
 - **Backend**: Python (Flask/Django) / Node.js / PHP
 - **Database**: SQLite / MySQL / MongoDB
 
-> _Note: Choose your stack above based on your implementation._
+
 
 ---
 
